@@ -1,8 +1,3 @@
-Karousel
-========
-
-Lightest carousel ever
-
 # Karousel 1.0
 It's a lightweight carousel,built using the javascript jQuery library. Karousel was designed to be a dynamic lightweight utility that gives webdesigners a powerful way of enhancing a website's user interface.
 
@@ -40,8 +35,9 @@ Optionally you can pass an array of options while triggering karousel to customi
 -	**vertical** Integer *(default:4000)* - a flag indicating if you would like to use a vertical slider. 
 
 ```
+```
 
-### Example
+## Example
 
 ``` js
 
@@ -66,7 +62,7 @@ My goal is to keep this plugin as simple as possible but 2 possible enhancements
 
 - optional callback after each slide transition could be helpful.
 
-If there is something else you would like added or you notice any issues with this plugin please let me know via [Twitter](http://facebook.com/kumarappan.arumugam) or [GitHub](http://github.com/kumarappanA).
+If there is something else you would like added or you notice any issues with this plugin please let me know via [Facebook](http://facebook.com/kumarappan.arumugam) or [GitHub](http://github.com/kumarappanA).
 
 
 ## License
