@@ -8,8 +8,8 @@ Karousel follows a very simple pattern. A wrapping div containing .karousel-cont
 <div id="#banner">
 <div class="karousel-content">
   <div> </div>
-  <div"> </div>
-	<div> </div>
+  <div> </div>
+  <div> </div>
 </div>
 </div>
 ```
@@ -34,8 +34,8 @@ Optionally you can pass an array of options while triggering karousel to customi
 
 -	**vertical** Integer *(default:4000)* - a flag indicating if you would like to use a vertical slider. 
 
-```
-```
+
+
 
 ## Example
 
