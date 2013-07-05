@@ -26,13 +26,13 @@ $("#banner").karousel();
 
 Optionally you can pass an array of options while triggering karousel to customize it to your needs. 
 
-- **pager** Boolean *(default:true)* - a flag indicating if you want to display a pager for the carousel.
+- **pager** Boolean *(default:false)* - a flag indicating if you want to display a pager for the carousel.
 
 -	**cyclic** Boolean *(default:false)* - a flag indicating if you want to display the carousel in a loop , i.e cyclic.
 
 - **automate** Boolean *(default:false)* - a flag indicating if you would like to auto scroll through the carousel.
 
--	**vertical** Integer *(default:4000)* - a flag indicating if you would like to use a vertical slider. 
+-	**vertical** Integer *(default:false)* - a flag indicating if you would like to use a vertical slider. 
 
 
 
