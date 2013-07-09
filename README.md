@@ -52,7 +52,7 @@ $("#banner").karousel({
 
 ## Demo
 
-You can view a all kinds of carousels here (http://kumarappana.wix.com/karousel).
+You can view a all kinds of carousels here (http://kumarappana.github.io/Karousel).
 
 
 ## Enhancements
